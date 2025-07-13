@@ -109,9 +109,4 @@ This project is licensed under the MIT License. See `LICENSE` for more details.
 
 ---
 
-## Contact
-For any queries or feature requests, please contact:
-- **Name**: Aman Chauhan
-- **Email**: amanchauhan@example.com
-- **GitHub**: [github.com/amanchauhan](https://github.com/amanchauhan)
 
